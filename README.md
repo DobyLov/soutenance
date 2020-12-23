@@ -9,6 +9,6 @@ Consulter le document Pdf: [Soutenance](https://github.com/DobyLov/soutenance/bl
 ### Slides de la présentation:
 Consulter le document Pdf: [Présentation](https://github.com/DobyLov/soutenance/blob/main/PresentationOpusBeaute_FBEAUDEAU_V16032019_V01.pptx)
 <p align="center">
-  [<img src="https://github.com/DobyLov/soutenance/blob/main/pgarde_soutenance.png">](https://github.com/DobyLov/soutenance/blob/main/PresentationOpusBeaute_FBEAUDEAU_V16032019_V01.pptx)
+  <img src="https://github.com/DobyLov/soutenance/blob/main/pgarde_soutenance.png">
 </p>
 
