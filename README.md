@@ -3,7 +3,7 @@
 ### Soutenance du Projet OpusBeauté défendue devant jury
 Consulter le document Pdf: [Soutenance](https://github.com/DobyLov/soutenance/blob/main/FBeaudeau_Soutenance_V16032019_VFinale05.pdf)
 <p align="center">
-  [<img width="460" height="300" src="https://github.com/DobyLov/soutenance/blob/main/pgarde_soutenance.png">](https://github.com/DobyLov/soutenance/blob/main/FBeaudeau_Soutenance_V16032019_VFinale05.pdf)
+  [<img width="300" height="460" src="https://github.com/DobyLov/soutenance/blob/main/pgarde_soutenance.png">](https://github.com/DobyLov/soutenance/blob/main/FBeaudeau_Soutenance_V16032019_VFinale05.pdf)
 </p>
 
 ### Slides de la présentation:
