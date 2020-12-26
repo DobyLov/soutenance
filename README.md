@@ -12,3 +12,11 @@ Consulter le document Pdf: [Présentation](https://github.com/DobyLov/soutenance
   <img width="460" height="300" src="https://github.com/DobyLov/soutenance/blob/main/pgarde_presentation.png">
 </p>
 
+
+### Diplôme obtenu:
+Consulter le document Pdf: [diplôme anonymisé](https://github.com/DobyLov/soutenance/blob/main/Pdiplome_CDI_anonyme.jpeg)
+<p align="center">
+  <img width="460" height="300" src="https://github.com/DobyLov/soutenance/blob/main/diplome_CDI_anonyme.jpeg">
+</p>
+
+
